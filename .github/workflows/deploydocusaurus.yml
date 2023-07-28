@@ -1,0 +1,50 @@
+
+name: deploy-docusaurus
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  id-token: write
+  pages: write
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Check out repo
+        uses: actions/checkout@v2
+      # check out matchboxscope gallery
+      - name: Checkout 🛎️
+        uses: actions/checkout@v3
+        with:
+          repository: Matchboxscope/matchboxscope-gallery
+          path: ./static/gallery/gallery
+          persist-credentials: false
+      # build gallery
+      - name: Build Gallery 🔧
+        run: docker run -v "$(pwd):/work" thumbsupgallery/thumbsup /bin/sh -c "cd /work/ && thumbsup --input ./static/gallery/gallery --output ./static/gallery/matchboxgallery"
+      # Node is required for npm
+      - name: Set up Node
+        uses: actions/setup-node@v2
+        with:
+          node-version: "19"
+      # Install and build Docusaurus website
+      - name: Build Docusaurus website
+        run: |
+          npm install
+          npm run build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          folder: ./build
