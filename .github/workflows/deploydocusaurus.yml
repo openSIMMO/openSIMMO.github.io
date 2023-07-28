@@ -34,7 +34,7 @@ jobs:
         run: docker run -v "$(pwd):/work" thumbsupgallery/thumbsup /bin/sh -c "cd /work/ && thumbsup --input ./static/gallery/gallery --output ./static/gallery/matchboxgallery"
       # Node is required for npm
       - name: Set up Node
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
           node-version: "19"
       # Install and build Docusaurus website
