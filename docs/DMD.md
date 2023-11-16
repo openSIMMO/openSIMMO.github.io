@@ -10,7 +10,7 @@ We used a DLP4710EVM-G2 video projector as spatial light modulator (SLM) in our 
 Here is a image how the DLP4710EVM-G2 oringinally looks like. In the projector, what is useful for us is the driver board and DMD chip and its mount. A 3D printed part is used to connect the DMD chip mount with a kinematic mirror mount. A longer flex cable with 40pin/0.5mm pitch is bought separately. The original calbe is quite short and not efficient to mount the driver board away from the DMD.
 
 
-<img src="./IMAGES/dlp4710evm-g2.png" title= "DLP4710 evaluation board" width="800">
+![](/IMAGES/dlp4710evm-g2.png)
 
 
 ## flash the driver board firmware
@@ -31,4 +31,5 @@ When the driver board is switched on, it will check if all LEDs work correctly. 
 
 
 # Paper
+
 Mitchell A. Cox and Alice V. Drozdov, "Converting a Texas Instruments DLP4710 DLP evaluation module into a spatial light modulator," Appl. Opt. 60, 465-469 (2021)
