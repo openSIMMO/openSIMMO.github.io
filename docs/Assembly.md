@@ -1,4 +1,4 @@
-# Assemlby
+# Assembly
 
 More coming soon!
 
