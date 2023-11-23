@@ -14,4 +14,4 @@ The step by step tutorial includes
 - align the optical path
 - introduce into the controlling software ImSwitch
 
-<img src="./IMAGES/dual_color_result.png" title= "Result Demonstration" width="1000">
+![](./IMAGES/dual_color_result.png)
