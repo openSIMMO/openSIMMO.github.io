@@ -7,7 +7,6 @@ More coming soon!
 ![](IMAGES/Alignment/SIM_ALIGN_3.jpg)
 ![](IMAGES/Alignment/SIM_ALIGN_4.jpg)
 ![](IMAGES/Alignment/SIM_ALIGN_5.jpg)
-
 ![](IMAGES/Alignment/SIM_ALIGN_7.jpg)
 ![](IMAGES/Alignment/SIM_ALIGN_8.jpg)
 ![](IMAGES/Alignment/SIM_ALIGN_9.jpg)

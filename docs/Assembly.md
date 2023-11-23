@@ -58,7 +58,7 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 6. Mounting DMD
 
-7. 
+7.
 
 
 ## Unsorted
@@ -73,41 +73,9 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_1.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_2.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_3.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_4.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_5.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_6.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_7.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_8.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_9.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_10.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_11.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_12.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_13.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_14.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_15.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_16.jpg)
-l
-![](IMAGES/Assembly/SIM_ASS_17.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_18.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_19.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_20.jpg)
 
