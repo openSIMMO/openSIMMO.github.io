@@ -68,6 +68,40 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 :-------------------------:|:-------------------------:
 <img src="IMAGES/Assembly/DMD.jpg"  title = "DMD" width="10%" height="auto"> |  <img src="IMAGES/Assembly/Fiber_Laser.jpg" title = "Fiber coupled laser" width="10%" height="auto"> |  <img src="IMAGES/Assembly/Kinematic_Mount.jpg" title = "Kinematic mirror mount" width="10%" height="auto">
 
+![](IMAGES/Assembly/SIM_PRE_1.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_2.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_3.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_4.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_5.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_6.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_7.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_8.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_9.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_10.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_11.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_12.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_13.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_14.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_15.jpg)
+
+![](IMAGES/Assembly/SIM_PRE_16.jpg)
+
+
+
 
 
 
@@ -93,8 +127,6 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_29.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_30.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_31.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_32.jpg)
@@ -115,13 +147,7 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_40.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_41.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_42.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_43.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_44.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_45.jpg)
 
@@ -131,8 +157,6 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_48.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_49.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_50.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_51.jpg)
@@ -140,8 +164,6 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 ![](IMAGES/Assembly/SIM_ASS_52.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_53.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_54.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_55.jpg)
 
@@ -181,9 +203,6 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_73.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_74.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_75.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_76.jpg)
 
