@@ -87,10 +87,6 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 ![](IMAGES/Assembly/SIM_ASS_24.jpg)
 
-![](IMAGES/Assembly/SIM_ASS_25.jpg)
-
-![](IMAGES/Assembly/SIM_ASS_26.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_27.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_28.jpg)
