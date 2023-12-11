@@ -14,7 +14,7 @@ A stop motion video was captured showing dismatle and assemble the whole setup.
 
 All required components for a SIM extension kit is shwon in this image. We used lots of 3D printed parts to replace the thorlabs optomechanics, the files can be found in this link. The enclosure of the setup is 6mm black plexi glass fabricated with laser cutter, the CAD file is save in this link.
 
-1. Mounting optical component to optomechanics  
+1. **Mounting optical component to optomechanics**  
 
 The optical elements are all direct connected to optomechanics. It makes sense to fix the optical parts directly in optomechanics. Mirrors are connected to the kinematic mirror mount, put them in the correct position and lock it using the screw on the edge.  
 
@@ -34,29 +34,29 @@ Cage plates are connected to a (how does it called) which can hook onto the alum
 <img src="IMAGES/Assembly/Lens_Mount_on_Base.jpg"  title = "Mounted cage plate on the base" width="20%" height="auto">
 
 
-2. Mounting the enclosure side wall to the ground plate
+2. **Mounting the enclosure side wall to the ground plate**
 
 The side walls are connected to the ground board with M3 screws. Screw nuts are placed inside the wall and bonded with the screw. In the side walls, there is one piece slightly different then others, with 2 holes near the zig-zag edge. It is done in purpose, in order to let the laser power cable go through the enclosure. Keep this wall first free until the laser is mounted to the ground board.  
 
 <img src="IMAGES/Assembly/Enclosure_with_sidewall.jpg"  title = "Enclosure bottom view with sidewalls" width="20%" height="auto">
 <img src="IMAGES/Assembly/Enclosure_Bottom.jpg"  title = "Enclosure bottom view with sidewalls" width="20%" height="auto">
 
-3. Fixing the aluminium profile onto the ground plate
+3. **Fixing the aluminium profile onto the ground plate**
 
 Aluminium profiles are used for laser collimation and conjugated fourier plane. Using hammer nuts and M5 screw to fix profiles on the ground plate. 100mm profiles are used for laser collimation.
 
 <img src="IMAGES/Assembly/Laser_Collimator_Rail_100mm.jpg"  title = "Aluminium profile onto ground board" width="20%" height="auto">
 
 
-4. Mounting the laser
+4. **Mounting the laser**
 
 First hook the cage plate with fiber adapter onto the profile, then fix the laser diode cooling onto the ground board. Let the power cable for the laser go through the hole and mount the last side wall onto the board.  
 <img src="IMAGES/Assembly/Laser_Mounting_Board.jpg"  title = "Laser montage" width="20%" height="auto">
 <img src="IMAGES/Assembly/Laser_out_View.jpg"  title = "Laser montage" width="20%" height="auto">
 
-5. Mounting guiding mirrors
+5. **Mounting guiding mirrors**
 
-6. Mounting DMD
+6. **Mounting DMD**
 
 7.
 
