@@ -56,9 +56,22 @@ First hook the cage plate with fiber adapter onto the profile, then fix the lase
 
 5. **Mounting guiding mirrors**
 
-6. **Mounting DMD**
+As in the previous step, mirrors and DMD are already mounted onto 3D printed base plate, on the ground board, there are holes to fix the base plates. M4 screws and washers are used for fixation, the hole on the 3D printed base plate is larger than M4 screw, in order to give the component still some possibility to position adjustment.  
+<img src="IMAGES/Assembly/Laser_Mirror_Fixation.jpg"  title = "Laser montage" width="20%" height="auto">
+<img src="IMAGES/Assembly/DMD_Fixation.jpg"  title = "Laser montage" width="20%" height="auto">
 
-7.
+6. **Electrical wiring**
+
+Connect DMD driver board to power supply and power it on, test if the DMD chip works without any problem. 
+
+The both laser driver is sharing a 12V power supply, connect the power supply to one laser driver and the 12v fans output to the other driver. Now connect the lasers onto the driver board, check if the lasers works properly. 
+
+Connect ESP to the laser drivers for TTL signal
+
+**Now the setup is done with basic assembly, next step is to align the optical components.**
+
+7. **Mounting DMD**
+
 
 
 ## Unsorted
