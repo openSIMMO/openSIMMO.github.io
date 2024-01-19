@@ -118,9 +118,6 @@ Connect ESP to the laser drivers for TTL signal
 
 
 
-
-![](IMAGES/Assembly/SIM_ASS_1.jpg)
-
 ![](IMAGES/Assembly/SIM_ASS_7.jpg)
 
 ![](IMAGES/Assembly/SIM_ASS_12.jpg)
