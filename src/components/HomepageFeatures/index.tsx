@@ -16,41 +16,32 @@ type FeatureItem = {
 
 const FeatureList = [
   {
-    title: 'Anglerfish',
-    imageUrl: 'img/Anglerfish_lunchbox_m12large_flipped_v0.png',
+    title: 'openSIMMO Setup',
+    imageUrl: 'img/SIMMO_1.png',
     description: (
       <>
-        Underwater Microscopy.
+        Attach the SIM Module to your microscope.
       </>
     ),
   },
   {
-    title: 'Matchboxscope',
-    imageUrl: 'img/Matchboxscope_VCM_v1.png',
+    title: 'Multicolour Super-resolution Imaging',
+    imageUrl: 'img/SIMMO_2.png',
     description: (
       <>
-        One-the-go microscope for 5€.
+        Use coherent SIM with multiple wavelengths.
       </>
     ),
   },
   {
-    title: 'ESPpectrometer',
-    imageUrl: 'img/Spectroscope_v0.png',
+    title: 'TRP pixel aware',
+    imageUrl: 'img/SIMMO_3.png',
     description: (
       <>
-        Browser-based 10€ Spectrometer.
+        Use the tip-role pixels for creating patterns.
       </>
     ),
-  },
-  {
-  title: 'Fluidicscope',
-    imageUrl: 'img/Planktoscope_Mini_v0.png',
-    description: (
-      <>
-        Compact High-throughput µFluidics-Microscope.
-      </>
-    ),
-  },
+  }
 ];
 
 function Feature({imageUrl, title, description}) {
