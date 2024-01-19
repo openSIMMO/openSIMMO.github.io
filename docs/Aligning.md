@@ -1,5 +1,10 @@
 # Aligning the Setup
 
+## Step-by-Step Video for the full process
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dtk1fSSjs4k?si=r-JWYkMIB2fvUEsu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Step-by-Step in Pictures
 
 1. Collimating the laser
 The collimation of the laser is checked with shear plate, place the shear plate in front of the laser lens, slightly move the lens until interference pattern shown on the shear plate with correct rotation

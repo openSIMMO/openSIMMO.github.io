@@ -35,7 +35,7 @@ const FeatureList = [
   },
   {
     title: 'TRP pixel aware',
-    imageUrl: 'img/SIMMO_3.png',
+    imageUrl: 'img/SIMMO_3.jpg',
     description: (
       <>
         Use the tip-role pixels for creating patterns.
