@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'openSIMMO Documentation',
-  tagline: 'An open ready-to-use super-resolution extension for your microscope.',
-  url: 'https://openSIMMO.github.io',
+  tagline: 'A low-cost, open-source implementation of DMD-based multi-colour SIM',
+  url: 'https://opensimmo.github.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -34,7 +34,10 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          exclude: [],
+          exclude: ['./static/firmware',
+                    './static/spectrometer',
+                    './static/gallery',
+                    './static/cameraserial',],
         },
         blog: {
         },
@@ -51,8 +54,8 @@ const config = {
       navbar: {
         title: 'openSIMMO Documentation',
         logo: {
-          alt: 'openSIMMO Logo',
-          src: 'img/Artboard4@4x.png',
+          alt: 'openUC2 Logo',
+          src: 'img/opensimmologo.png',
         },
         items: [
           {
@@ -61,14 +64,14 @@ const config = {
             position: 'left',
             label: 'Tutorial',
           },
+          {to: '/blog', label: 'Software', position: 'left'},
           {
-            href: 'https://github.com/openSIMMO/',
+            href: 'https://github.com/openSIMMO/openSIMMO.github.io',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
-      /*
       algolia: {
         // The application ID provided by Algolia
         appId: 'DMM0XHVBNE',
@@ -95,10 +98,10 @@ const config = {
 
         // Optional: path for search page that enabled by default (`false` to disable it)
         searchPagePath: 'search',
+        */
 
-
-      },*/  //... other Algolia params
-
+        //... other Algolia params
+      },
       footer: {
         style: 'dark',
         links: [
@@ -106,7 +109,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Documentation',
+                label: 'Tutorial',
                 to: '/docs/Introduction',
               },
             ],
@@ -115,8 +118,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Github',
-                href: 'https://github.com/openSIMMO',
+                label: 'Discourse',
+                href: 'https://openuc2.com',
               },
               {
                 label: 'Twitter',
@@ -133,12 +136,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/openSIMMO/',
+                href: 'https://github.com/openSIMMO/openSIMMO.github.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Matchboxscope Developers.`,
+        copyright: `Copyright © ${new Date().getFullYear()} openSIMMO Developers.`,
       },
       prism: {
         theme: lightCodeTheme,
