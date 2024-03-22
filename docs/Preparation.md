@@ -20,11 +20,12 @@ DMD assemblies x1
 
 ## Lasercutting Files
 
-Ground plate with mounting holes x1
+Ground board with mounting holes x1
 Side walls x7
 
+After the side walls are cut with laser cutter, it still need to manually drill some holes sidely for inserting the M3 screws.
 
-![](IMAGES/Assembly/VID_20231114_145947.gif)
+
 
 
 ## Accessories
