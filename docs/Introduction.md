@@ -1,4 +1,6 @@
-# Introduction to openSIMMO: Enhancing Microscope Resolution through Open-Source Structured Illumination
+# Introduction to openSIMMO
+
+***Enhancing Microscope Resolution through Open-Source Structured Illumination***
 
 This open-source super-resolution module is designed to be attached to epi-fluorescence microscopes, significantly improving their capabilities through advanced fluorescence microscopy techniques. The heart of this device lies in its dual-colored structured illumination extension, which is not only cost-effective but also user-friendly, making it an ideal choice for a wide array of research laboratories equipped with old microscopes that lack the feature of super-resolution.
 
