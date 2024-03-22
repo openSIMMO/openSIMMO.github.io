@@ -6,6 +6,7 @@ In order to display SIM patterns on the DMD and trigger the camera, we would nee
 
 The system is modular and can be adapted or extended for various imaging and display applications. The integration of web control via FastAPI makes it versatile for remote operation, potentially in laboratory settings where automated image display and capture are required. ImSwitch adapts the fastapi REST-API and triggers the display of certain display sequences.
 
+![](./IMAGES/hardwareinteraction.png)
 
 ## Install the dependencies
 
