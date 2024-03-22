@@ -376,7 +376,7 @@ then add this code before ``exit 0``
 
 ``python /home/pi/Desktop/fastapiSIM.py &``
 
-Quit and save the file. Based on the code, we need to put the [``fastapiSIM.py``](./Code/fastapiSIM.py) and also a [folder](./Patterns) for the patterns on the desktop of pi.
+Quit and save the file. Based on the code, we need to copy the [``fastapiSIM.py``](./Code/fastapiSIM.py) and also the whole [folder](./Pattern_SIMMO) for the patterns to the desktop of pi.
 
 Using a ethernet cable to connect the raspberry pi to the computer and reboot the raspberry pi.
 
