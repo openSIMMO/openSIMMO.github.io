@@ -11,6 +11,7 @@ To replicate this setup, you will need to prepare components in the following ca
 The housing and large parts of the system are manufactured using laser cutting. Additionally, we use holders for commercial optomechanics, which are 3D printed to ensure system stability.
 
 ![](./IMAGES/PositionDiagram.PNG)
+
 ## Optomechanics
 
 To maintain system stability, certain optomechanical components with fine adjustabilities are necessary and cannot be replaced. We utilize a combination of Thorlabs parts and 3D printed components, including kinematic mirror mounts, 1-inch cage plates, and XY translation stages. An in-depth list of all the components used in our design can be found in the [Bill of Materials](./BillOfMaterials.md).
@@ -41,9 +42,11 @@ The different optical elements are fixed in place according to the provided sket
 
 - **Lasercutting Files Location:** [LaserCutting folder](https://github.com/openSIMMO/openSIMMO/tree/master/LaserCutting)
 
-### Table of Lasercutting Files
+| File Name | Quantity | Description |
+|-----------|----------|-------------|
+| [Ground board with mounting holes](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/BaseplateSIMMO.dxf) | x1 | Base plate with mounting holes for the setup |
+| [Side walls](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back1.dxf), [Back2](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back2.dxf), [Back3](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back3.dxf), [Laser](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Laser.dxf), [LaserDriver](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_LaserDriver.dxf), [Mirror](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Mirror.dxf), [Telescope](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Telescope.dxf), [TelescopeDown](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_TelescopeDown.dxf) | x7 | Side walls for enclosing the system and mounting various components. Includes specific walls for laser, laser driver, mirror, and telescope alignments |
 
-I will now generate the missing links and descriptions for the lasercutting files table.
 
 ## Design Files
 
@@ -56,16 +59,3 @@ The components are constructed using Inventor 2024 Student edition.
 The setup also uses 3 standard aluminum profiles to mount the ray optical parts, with lengths of 2 x 100mm and 1 x 150mm.
 
 For further information or if you have any questions, feel free to open an issue in this repository.
-
----
-
-Now, I'll proceed to create the missing table for lasercutting files, including links, quantities, and descriptions based on the provided directory structure.
-
-### Table of Lasercutting Files
-
-Given the structure and the information provided, I'll assume the roles and quantities for each of the files and organize them into a table format suitable for inclusion in your GitHub documentation.
-
-| File Name | Quantity | Description |
-|-----------|----------|-------------|
-| [Ground board with mounting holes](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/BaseplateSIMMO.dxf) | x1 | Base plate with mounting holes for the setup |
-| [Side walls](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back1.dxf), [Back2](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back2.dxf), [Back3](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Back3.dxf), [Laser](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Laser.dxf), [LaserDriver](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_LaserDriver.dxf), [Mirror](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Mirror.dxf), [Telescope](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_Telescope.dxf), [TelescopeDown](https://github.com/openSIMMO/openSIMMO/blob/master/LaserCutting/Sidewall_TelescopeDown.dxf) | x7 | Side walls for enclosing the system and mounting various components. Includes specific walls for laser, laser driver, mirror, and telescope alignments |

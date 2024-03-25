@@ -33,3 +33,45 @@
 |                             |                                           |                            |          |                                                                 |                                                                                                                            |
 |                             |                                           |                            |          |                                                                 |                                                                                                                            |
 | Breadboard                  |                                           |                            |          |                                                                 |                                                                                                                            |
+
+
+## BOM exported from Inventor
+
+| #  | Part name                          | Count |
+| -- | ---------------------------------- | ----- |
+| 1  | Mount_DMD_KM100                    | 1     |
+| 2  | KM100-Solidworks                   | 1     |
+| 3  | 00_AC254-030-A-ML-Step             | 2     |
+| 4  | Nikon_Ti2E                         | 1     |
+| 5  | 00_Beampath_v0                     | 1     |
+| 6  | 00_AC254-200-A-ML-Step             | 1     |
+| 7  | 00_AC254-075-A-ML-Step             | 2     |
+| 8  | Cover_new                          | 1     |
+| 9  | 00_KM100-Step                      | 3     |
+| 10 | PF10-03-P01-Solidworks             | 3     |
+| 11 | 00_Baseplate_Simmo_base            | 2     |
+| 12 | 00_B3060L-Step                     | 4     |
+| 13 | Assembly_Post_v0                   | 3     |
+| 14 | 00_PCO_edge-det                    | 1     |
+| 15 | 00_Aluminium_Extrusion_20x20       | 1     |
+| 16 | 10_Mountinplate_Mirrors_v0         | 4     |
+| 17 | MB4560_M-Solidworks                | 1     |
+| 18 | 00_Baseplate_Simmo_side2_v2        | 1     |
+| 19 | 10_Baseplate_Simmo_side1           | 1     |
+| 20 | 00_Aluminium_Extrusion_20x20_250mm | 2     |
+| 21 | 00_CP33_M-Solidworks               | 6     |
+| 22 | 00_Baseplate_Simmo_side5_v2        | 1     |
+| 23 | 00_Baseplate_Simmo_side6_v2        | 1     |
+| 24 | 00_Baseplate_Simmo_side7_v2        | 1     |
+| 25 | 00_Baseplate_Simmo_side4_v2        | 1     |
+| 26 | MCH008_EVM_BOARD                   | 1     |
+| 27 | MCH011_FLASH_BOARD                 | 1     |
+| 28 | Nikon_Eclipse_Ts2R_FL_Assy         | 1     |
+| 29 | 00_Laser_HeatSink                  | 2     |
+| 30 | 00_Baseplate_Simmo_side3_v2        | 1     |
+| 31 | 30126G3-Solidworks                 | 2     |
+| 32 | CXY1QA-Solidworks                  | 1     |
+| 33 | RailOptiX_Thorlabs                 | 7     |
+| 34 | rpi2-top_netfabb                   | 1     |
+| 35 | rpi3-bottom_100mm-vesa_netfabb     | 1     |
+| 36 | ESP32-WROVER-DEVKIT-NODEMCU-V1.3   | 1     |
