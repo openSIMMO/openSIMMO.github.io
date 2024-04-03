@@ -1,5 +1,9 @@
 # ImSwitch
 
+## Real-time SIM reconstruction Tutorial
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ld61yQOuVRI?si=13WVFIA7ObEG6eIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## ImSwitch Configuration
 
 In ImSwitch we use the followin configuration to get the PCO camera working in conjuction with the SIM reconstruction
@@ -108,7 +112,7 @@ json
 
 ## Code Explanation
 
-We rely on the PCO Edge camera which is triggered by the display server represented by the Raspberry Pi. The display server itself is controlled using a fastapi REST service that starts the display process of individual SIM patterns. This is all part of the `SIMController/SIMWidget`which can be found [here](https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/controller/controllers/SIMController.py) and [here](https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/view/widgets/SIMWidget.py). 
+We rely on the PCO Edge camera which is triggered by the display server represented by the Raspberry Pi. The display server itself is controlled using a fastapi REST service that starts the display process of individual SIM patterns. This is all part of the `SIMController/SIMWidget`which can be found [here](https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/controller/controllers/SIMController.py) and [here](https://github.com/openUC2/ImSwitch/blob/master/imswitch/imcontrol/view/widgets/SIMWidget.py).
 Ensure that the IP address of the Raspberry PI is setup correctly in the Configuration file above (e.g. `"displayServerHost":"169.266.1.5"`).
 
 This Python module is part of the **ImSwitch** software package, aimed at controlling and processing Structured Illumination Microscopy (SIM) experiments. It integrates various functionalities, including device control, SIM pattern generation, image acquisition, and sophisticated image reconstruction algorithms.
