@@ -1,6 +1,8 @@
+---
+id: 01_2
+---
+
 # Electronics
-
-
 
 In order to display SIM patterns on the DMD and trigger the camera, we would need to connect it to a Raspberry Pi that itself acts as a display server and realizes a fast trigger and display rate for reasonalbe framerates in SIM experiments. For this, we build a fastapi-driven Server that loads and displays images using openCL accelerated pygame. The latest version of the display server can be found [here](https://github.com/openUC2/ImSwitch/blob/SIM_PCO/tools/fastapiSIM.py). A step-by-step code explenation follows below.
 

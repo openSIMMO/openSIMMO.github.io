@@ -1,3 +1,6 @@
+---
+id: 03_1
+---
 # Assembly
 
 For assembly of the setup, make sure you have all parts in hand. You can compare it in the Bill of material.
