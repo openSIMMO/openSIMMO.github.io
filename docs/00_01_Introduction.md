@@ -8,13 +8,6 @@ This open-source super-resolution module is designed to be attached to epi-fluor
 
 This Website will guide you through the process of creating the openSIMMO for your system. Below you can find the necessary steps that can be taken in different orders, but we recommend you go following the following route:
 
-| Step  | Topic  | Sub-Steps  |
-|---|---|---|
-|  1 | Theory | [Laser](./01_1_Laser.md), [Electronics](./01_02_Electronics.md), [DMD](./01_2_DMD.md)  |
-|  2 |  Manufacturing| [02_1_BillOfMaterials.md](./BillOfMaterials.md) [Preparation](./02_2_Preparation.md)  |
-|  3 |  Setup | [Assembly](./03_1_Assembly), [Aligning](./03_2_Aligning)  |
-|  4 |  Software |  [ImSwitch](./04_01_ImSwitch.md), [Reconstruction](./04_02_Reconstruction.md)  |
-
 
 ## Key Features of openSIMMO:
 
