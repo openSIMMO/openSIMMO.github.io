@@ -1,7 +1,3 @@
----
-id: 02_1
----
-
 # Bill Of Materials
 
 | Part                        | Specification                             | Purpose                    | Quantity | Cost (in Euro) | Link                                                                                                                       |

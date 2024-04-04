@@ -1,8 +1,3 @@
----
-id: 03_2
----
-
-
 # Aligning the Setup
 
 ## Step-by-Step Video for the full process

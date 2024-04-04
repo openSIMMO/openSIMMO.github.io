@@ -1,8 +1,3 @@
-
----
-id: 02_2
----
-
 ## Preparation
 
 This documentation is designed to help you replicate our setup and understand the components and files required for the project. The openSIMMO project integrates 3D printed parts, laser-cut enclosures, and various accessories to create a customizable optomechanical system.

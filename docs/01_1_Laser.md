@@ -1,7 +1,3 @@
----
-id: 01_1
----
-
 # Laser
 
 ## Selection of the laser
