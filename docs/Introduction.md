@@ -4,6 +4,18 @@
 
 This open-source super-resolution module is designed to be attached to epi-fluorescence microscopes, significantly improving their capabilities through advanced fluorescence microscopy techniques. The heart of this device lies in its dual-colored structured illumination extension, which is not only cost-effective but also user-friendly, making it an ideal choice for a wide array of research laboratories equipped with old microscopes that lack the feature of super-resolution.
 
+## Table of Content
+
+This Website will guide you through the process of creating the openSIMMO for your system. Below you can find the necessary steps that can be taken in different orders, but we recommend you go following the following route:
+
+| Step  | Topic  | Sub-Steps  |
+|---|---|---|
+|  1 | Theory | [Laser](./Laser.md), [Electronics](./Electronics.md), [DMD](./DMD.md)  |
+|  2 |  Manufacturing| [BillOfMaterials.md](./BillOfMaterials.md) [Preparation](./Preparation.md)  |
+|  3 |  Setup | [Assembly](./Assembly), [Aligning](./Aligning)  |
+|  4 |  Software |  [ImSwitch](./ImSwitch.md), [Reconstruction](./Reconstruction.md)  |
+
+
 ## Key Features of openSIMMO:
 
 1. **Dual-Colored Structured Illumination**: Utilizes a novel approach for achieving super-resolution, employing dual-colored (488/635 nm) structured illumination. This technique is particularly effective in improving resolution beyond the traditional diffraction limit.
