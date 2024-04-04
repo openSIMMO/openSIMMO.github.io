@@ -74,12 +74,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'DMM0XHVBNE',
+        appId: 'C5IY8BN8B3',
 
         // Public API key: it is safe to commit it
-        apiKey: '189458dc6e096d90e28c263a2a88e9c2',
+        apiKey: '45765923aab0ae9171cd5a10e8a17bf0',
 
-        indexName: 'matchboxscopeio',
+        indexName: 'opensimmoio',
 
         // Optional: see doc section below
         contextualSearch: true,
