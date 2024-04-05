@@ -39,8 +39,6 @@ const config = {
                     './static/gallery',
                     './static/cameraserial',],
         },
-        blog: {
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
