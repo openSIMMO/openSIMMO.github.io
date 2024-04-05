@@ -11,7 +11,7 @@ The housing and large parts of the system are manufactured using laser cutting. 
 
 ## Optomechanics
 
-To maintain system stability, certain optomechanical components with fine adjustabilities are necessary and cannot be replaced. We utilize a combination of Thorlabs parts and 3D printed components, including kinematic mirror mounts, 1-inch cage plates, and XY translation stages. An in-depth list of all the components used in our design can be found in the [Bill of Materials](./BillOfMaterials.md).
+To maintain system stability, certain optomechanical components with fine adjustabilities are necessary and cannot be replaced. We utilize a combination of Thorlabs parts and 3D printed components, including kinematic mirror mounts, 1-inch cage plates, and XY translation stages. An in-depth list of all the components used in our design can be found in the [Bill of Materials](./02_2_BillOfMaterials.md).
 
 ## 3D Printing Files
 
