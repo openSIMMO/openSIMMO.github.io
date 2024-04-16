@@ -58,11 +58,10 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Introduction',
+            docId: '00_01_Introduction',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Software', position: 'left'},
           {
             href: 'https://github.com/openSIMMO/openSIMMO.github.io',
             label: 'GitHub',
@@ -108,7 +107,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Introduction',
+                to: '/docs/00_01_Introduction',
               },
             ],
           },
