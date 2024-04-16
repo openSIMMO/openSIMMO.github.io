@@ -15,8 +15,9 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@docusaurus/core": "3.2.0",
-    "@docusaurus/preset-classic": "3.2.0",
+    "@datalayer/jupyter-docusaurus-plugin": "^0.0.9",
+    "@docusaurus/core": "^3.2.1",
+    "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/react": "^3.0.0",
     "braces": "^3.0.2",
     "clsx": "^2.0.0",
@@ -27,17 +28,20 @@
     "is-extendable": "^1.0.1",
     "is-extglob": "^2.1.1",
     "once": "^1.4.0",
-    "prism-react-renderer": "^2.3.0",
+    "prism-react-renderer": "^2.3.1",
+    "process": "^0.11.10",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "resolve-pathname": "^3.0.0",
     "section-matter": "^1.0.0",
+    "stream-browserify": "^3.0.0",
     "stringify": "^5.2.0",
-    "strip-bom-string": "^1.0.0"
+    "strip-bom-string": "^1.0.0",
+    "styled-components": "^5.3.10"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.2.0",
-    "@docusaurus/types": "3.2.0"
+    "@docusaurus/module-type-aliases": "^3.2.1",
+    "@docusaurus/types": "^3.2.1"
   },
   "browserslist": {
     "production": [
