@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopenSIMMO=self.webpackChunkopenSIMMO||[]).push([[913],{8913:(e,p,s)=>{s.r(p)}}]);

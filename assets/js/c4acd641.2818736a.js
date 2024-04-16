@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopenSIMMO=self.webpackChunkopenSIMMO||[]).push([[997],{1966:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
