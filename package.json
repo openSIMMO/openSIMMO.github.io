@@ -15,7 +15,6 @@
     "dev": "docusaurus start"
   },
   "dependencies": {
-    "@datalayer/jupyter-docusaurus-plugin": "^0.0.9",
     "@docusaurus/core": "^3.2.1",
     "@docusaurus/preset-classic": "^3.2.1",
     "@mdx-js/react": "^3.0.0",
