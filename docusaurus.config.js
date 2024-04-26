@@ -11,9 +11,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  plugins: [
-    '@datalayer/jupyter-docusaurus-plugin'
-  ],
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'openSIMMO', // Usually your GitHub org/user name.
