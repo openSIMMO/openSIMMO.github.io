@@ -9,10 +9,21 @@ This page details the process for pre-computing the gratings necessary for diffe
 - **Light Wavelengths**: 488 nm and 645 nm
 - **Resolution Improvement Factor**: 488 nm and 645 nm =>
 
+
+
+
 ## Procedure
 The gratings are generated based on the optimization of grating orientation and period for a specific unit cell. This optimization uses the results from the algorithm provided by the `fairSIM` project.
 
-The computed parameters are:
+Open `Imagej - Plugin - SLM Grating - Search Pattern`, the parameters are shown in the screenshot.
+
+![](./IMAGES/PatternGeneration_FairSIM.png)
+
+The pattern will be calculated and generated for both 488/635nm laser.
+![](./IMAGES/Generated_Pattern.png)
+
+
+The computed parameters for the 488nm setup are:
 **Generate Unit Cell**
 - **AX**: 17
 - **AY**: 21
