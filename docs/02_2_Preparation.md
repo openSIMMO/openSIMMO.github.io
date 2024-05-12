@@ -51,6 +51,24 @@ The components are constructed using Inventor 2024 Student edition.
 
 - **Design Files Location:** [INVENTOR folder](https://github.com/openSIMMO/openSIMMO/tree/master/INVENTOR)
 
+## SIM Pattern Generation
+
+The SIM pattern was generated using plugin FairSIM from ImageJ. Open Imagej - Plugin - SLM Grating - Search Pattern, the parameters are shown in the screenshot.
+
+![](./IMAGES/PatternGeneration_FairSIM.png)
+
+The pattern will be calculated and generated for both 488/635nm laser.
+![](./IMAGES/Generated_Pattern.png)
+
+## Fourier mask
+
+The Fourier mask is used to block the 0th order beam, only 1st order beam can pass through for creating 2 beam SIM interference. The Fourier mask was made with Thorlabs [black aluminium foil](https://www.thorlabs.com/thorproduct.cfm?partnumber=BKF12). The hole position was made with AutoCAD and exported as pdf file. Printing the pattern with normal printer and cut the black aluminium foil with 25mm diameter circle, using a pin to stich the 6 holes on the right position.
+
+![](./IMAGES/Printed_pattern.jpg)
+![](./IMAGES/Thorlabs_aluFoil.jpg)
+![](./IMAGES/Finished_FourierMask.jpg)
+
+
 ## Accessories
 
 The setup also uses 3 standard aluminum profiles to mount the ray optical parts, with lengths of 2 x 100mm and 1 x 150mm.
