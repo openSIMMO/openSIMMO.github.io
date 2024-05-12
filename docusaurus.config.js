@@ -1,8 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
-
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+import {themes as prismThemes} from 'prism-react-renderer'
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -39,8 +37,6 @@ const config = {
                     './static/gallery',
                     './static/cameraserial',],
         },
-        blog: {
-        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -60,11 +56,10 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'Introduction',
+            docId: '00_01_Introduction',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Software', position: 'left'},
           {
             href: 'https://github.com/openSIMMO/openSIMMO.github.io',
             label: 'GitHub',
@@ -110,7 +105,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/Introduction',
+                to: '/docs/00_01_Introduction',
               },
             ],
           },
@@ -144,8 +139,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} openSIMMO Developers.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
 };
