@@ -10,8 +10,6 @@ This page details the process for pre-computing the gratings necessary for diffe
 - **Resolution Improvement Factor**: 488 nm and 645 nm =>
 
 
-
-
 ## Procedure
 The gratings are generated based on the optimization of grating orientation and period for a specific unit cell. This optimization uses the results from the algorithm provided by the `fairSIM` project.
 

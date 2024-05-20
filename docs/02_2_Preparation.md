@@ -56,14 +56,6 @@ The components are constructed using Inventor 2024 Student edition.
 
 - **Design Files Location:** [INVENTOR folder](https://github.com/openSIMMO/openSIMMO/tree/master/INVENTOR)
 
-## SIM Pattern Generation
-
-The SIM pattern was generated using plugin FairSIM from ImageJ. Open Imagej - Plugin - SLM Grating - Search Pattern, the parameters are shown in the screenshot.
-
-![](./IMAGES/PatternGeneration_FairSIM.png)
-
-The pattern will be calculated and generated for both 488/635nm laser.
-![](./IMAGES/Generated_Pattern.png)
 
 ## Fourier mask
 
