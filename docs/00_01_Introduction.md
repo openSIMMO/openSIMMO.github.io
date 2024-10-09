@@ -1,5 +1,9 @@
 # Introduction to openSIMMO
 
+Read more in our preprint:
+[![DOI:10.1101/2024.07.04.601961]([http://img.shields.io/badge/DOI-10.1101/2020.03.02.973073-B31B1B.svg](https://img.shields.io/badge/DOI-10.1101/2024.07.04.601961-B31B1B.svg))](https://doi.org/10.1101/2024.07.04.601961) 
+
+
 ***Enhancing Microscope Resolution through Open-Source Structured Illumination***
 
 This open-source super-resolution module is designed to be attached to epi-fluorescence microscopes, significantly improving their capabilities through advanced fluorescence microscopy techniques. The heart of this device lies in its dual-colored structured illumination extension, which is not only cost-effective but also user-friendly, making it an ideal choice for a wide array of research laboratories equipped with old microscopes that lack the feature of super-resolution.
@@ -22,7 +26,7 @@ This Website will guide you through the process of creating the openSIMMO for yo
 
 2. **Open-Source and Cost-Effective**: One of the most compelling aspects of openSIMMO is its open-source nature, ensuring accessibility to a broad scientific community. The use of cost-effective components significantly reduces the overall expense, making high-resolution imaging more affordable.
 
-3. **Enhanced Resolution with Minimal Complexity**: The module provides an enhancement factor of 1.75x compared to general widefield microscopy. This improvement is achieved without introducing the complexity typically associated with high-end microscopy techniques.
+3. **Enhanced Resolution with Minimal Complexity**: The module provides an enhancement factor of 1.55x compared to general widefield microscopy. This improvement is achieved without introducing the complexity typically associated with high-end microscopy techniques.
 
 4. **Seamless Integration with ImSwitch Software**: openSIMMO is complemented by the ImSwitch controlling software, a Python-based interface that facilitates efficient communication with the hardware and streamlines data processing. This integration allows for automated workflows and customizable experiment designs.
 
