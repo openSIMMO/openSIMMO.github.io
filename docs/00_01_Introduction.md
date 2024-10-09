@@ -1,7 +1,7 @@
 # Introduction to openSIMMO
 
 Read more in our preprint:
-[![DOI:10.1101/2024.07.04.601961]([http://img.shields.io/badge/DOI-10.1101/2020.03.02.973073-B31B1B.svg)](https://doi.org/10.1101/2024.07.04.601961) 
+[![DOI:10.1101/2024.07.04.601961](http://img.shields.io/badge/DOI-10.1101/2020.03.02.973073-B31B1B.svg)](https://doi.org/10.1101/2024.07.04.601961) 
 
 
 
