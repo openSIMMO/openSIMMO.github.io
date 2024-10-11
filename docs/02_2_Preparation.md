@@ -59,7 +59,7 @@ The components are constructed using Inventor 2024 Student edition.
 
 ## Fourier mask
 
-The Fourier mask is used to block the 0th order beam, only 1st order beam can pass through for creating 2 beam SIM interference. The Fourier mask was made with Thorlabs [black aluminium foil](https://www.thorlabs.com/thorproduct.cfm?partnumber=BKF12). The hole position was made with AutoCAD and exported as pdf file. Printing the pattern with normal printer and cut the black aluminium foil with 25mm diameter circle, using a pin to stich the 6 holes on the right position.
+The Fourier mask is used to block the 0th order beam, only 1st order beam can pass through for creating 2 beam SIM interference. The Fourier mask was made with Thorlabs [black aluminium foil](https://www.thorlabs.com/thorproduct.cfm?partnumber=BKF12). The hole position was made with AutoCAD and exported as [pdf](./Documents/FourierMask.pdf) file. Printing the pattern with normal printer and cut the black aluminium foil with 25mm diameter circle, using a pin to stich the 6 holes on the right position.
 
 ![](./IMAGES/Printed_pattern.jpg)
 ![](./IMAGES/Thorlabs_aluFoil.jpg)
